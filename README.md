@@ -48,3 +48,5 @@ Optional use of foreground service or notification controls can provide playback
 
 The app reads audio files using the MediaStore API or directly from local file paths. A RecyclerView is used to display the list of available audio files, making the interface easy to scroll and select songs.
 # OUTPUT OF TASK
+<img width="1920" height="864" alt="Image" src="https://github.com/user-attachments/assets/7b9a6a0d-8f12-4f8d-bcb8-88cc82ca869f" />
+<img width="1920" height="1025" alt="Image" src="https://github.com/user-attachments/assets/1bdd3de2-51e6-4b53-9b1d-373c14f21cb6" />
